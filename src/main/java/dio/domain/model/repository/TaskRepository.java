@@ -1,6 +1,6 @@
-package dio_santander.domain.model.repository;
+package dio.domain.model.repository;
 
-import dio_santander.domain.model.Task;
+import dio.domain.model.Task;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

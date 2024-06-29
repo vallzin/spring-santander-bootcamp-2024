@@ -1,4 +1,4 @@
-package dio_santander.domain.model;
+package dio.domain.model;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
