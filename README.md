@@ -1,4 +1,4 @@
-# Publicando Sua API REST na Nuvem Usando Spring Boot 3, Java 17 e Railway
+# Publicando Sua API REST, Spring Boot 3, Java 17 e Railway
 
 Projeto básico de API REST para gerenciamento de tarefas fornece uma base sólida para você começar a explorar e expandir suas habilidades em desenvolvimento de APIs usando Spring Boot.
 
